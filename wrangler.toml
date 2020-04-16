@@ -1,0 +1,6 @@
+name = "learn-wrangler"
+type = "javascript"
+account_id = "1a9826abc582937bb0a9b01438b98798"
+workers_dev = true
+route = ""
+zone_id = ""
